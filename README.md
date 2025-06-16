@@ -1,14 +1,14 @@
 <!-- Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<h1 align="center">Hi 👋, I'm Param (a.k.a. Techno Snag)</h1>
-<h3 align="center">A passionate Web Developer & DevOps Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Param Chauhan </h1>
+<h3 align="center">A passionate Web Developer & Quant Enthusiast from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **DevOps** and Cloud Technologies  
-- 💬 Ask me about **Frontend Development, DevOps, GitHub & Web Tools**  
-- 📫 Reach me at **technosnag@gmail.com**  
+- 🌱 I’m currently learning **Backend Development** and Linux
+- 💬 Ask me about **Quant's, WebDev, GitHub & Web Tools**  
+- 📫 Reach me at **koroasuka7@gmail.com**  
 - ⚡ Fun fact: **I break things just to fix them better 😄**
 
 ---
@@ -32,11 +32,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
